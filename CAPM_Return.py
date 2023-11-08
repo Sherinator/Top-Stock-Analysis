@@ -7,13 +7,13 @@ import pandas_datareader.data as web
 import datetime
 import CAPM_Functions
 
-st.set_page_config(page_title="CAPM",
-                   page_icon="chart_with_upwards_trend",
+st.set_page_config(page_title="Stock Analysis",
+                   page_icon="bar_chart",
                    layout='wide')
 
-st.title("Capital Asset Pricing Model")
-st.markdown('###### Made by Amandeep | [Github](https://github.com/Sherinator)')
-st.caption("The Capital Asset Pricing Model(CAPM) is a formula that helps investors calculate how much risk they're taking when they invest in a stock, based on the risk-free rate, the equity risk premium, and the stock's beta. It is a finance model that establishes a linear relationship between the required return on an investment and risk.")
+st.title("Top Stock Analysis")
+st.markdown('###### Made by Amandeep | [Github](https://github.com/Sherinator/Top-Stock-Analysis)')
+st.caption("The Top Stock Analysis uses CAPM formula that helps investors calculate how much risk they're taking when they invest in a stock, based on the risk-free rate, the equity risk premium, and the stock's beta. It is a finance model that establishes a linear relationship between the required return on an investment and risk.")
 
 #getting input from user
 
