@@ -11,7 +11,7 @@
 
 ### [Live Website](https://topstock.streamlit.app/)
 
-![capm-webpage](capm-file.png)
+![capm-webpage](top-stock-analysis.jpg)
 
 ---
 
